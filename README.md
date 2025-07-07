@@ -1,4 +1,4 @@
-# opencv-prjoects
+# opencv-projects
 I'm excited to share that I’ve successfully completed a computer vision project titled "Enhanced Face and Eye Detection in Real-Time Using Haarcascades in OpenCV." 🔍
 
 This project focuses on detecting human faces and eyes live from a webcam using Python, OpenCV, and pre-trained Haarcascade models. It's lightweight, fast, and can be deployed on both desktops and embedded systems.
